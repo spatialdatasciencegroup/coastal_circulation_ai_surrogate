@@ -90,9 +90,8 @@ while 16 and 32 GPU experiments utilize 2 and 4 compute nodes, respectively.
   Hierarchical Spatial Transformer for Massive Point Samples in Continuous Space." Advances in Neural Information
   Processing Systems (NeurIPS), 2023. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/6a0480190bbe6b622c7f1d3aa9be9c0f-Paper-Conference.pdf)]
 - Zelin Xu, Jie Ren, Yupu Zhang, Jose Maria Gonzalez Ondina, Maitane Olabarrieta, Tingsong Xiao, Wenchong He, Zibo Liu,
-  Shigang Chen, Kaleb Smith, and Zhe Jiang. "A Fast AI Surrogate for Coastal Ocean Circulation Models." arXiv preprint
-  arXiv:2410.14952, 2024. [[Paper](https://arxiv.org/abs/2410.14952)]
-- Andrew R. Chow. "How AI Could Make Hurricane Forecasting Faster and More Accurate." TIME, October 9, 2024. 
+  Shigang Chen, Kaleb Smith, and Zhe Jiang. "A Fast AI Surrogate for Coastal Ocean Circulation Models." arXiv preprint, 2024. [[Paper](https://arxiv.org/abs/2410.14952)]
+- Andrew R. Chow. "How Meteorologists Are Using AI to Forecast Hurricane Milton and Other Storms." TIME, October 9, 2024. 
   [[Link](https://time.com/7081372/ai-hurricane-forecasting/)]
 
 ## Acknowledgement
