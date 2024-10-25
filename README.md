@@ -42,7 +42,7 @@ response.
 ![w](assets/w.gif)
 ![zeta](assets/zeta.gif)
 
-## ROMS and AI surrogate ζ Predictions Comparisons at Random Locations
+## ROMS and AI Surrogate Free Surface Elevation ζ Predictions Comparisons at Random Locations
 
 <p style="text-align: center;">
   <img src="assets/time_series.svg" alt="time series" width="80%">
@@ -87,7 +87,7 @@ while 16 and 32 GPU experiments utilize 2 and 4 compute nodes, respectively.
 ## References
 
 - Wenchong He, Zhe Jiang, Tingsong Xiao, Zelin Xu, Shigang Chen, Ronald Fick, Miles Medina, and Christine Angelini. "A
-  hierarchical spatial transformer for massive point samples in continuous space." Advances in Neural Information
+  Hierarchical Spatial Transformer for Massive Point Samples in Continuous Space." Advances in Neural Information
   Processing Systems (NeurIPS), 2023. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/6a0480190bbe6b622c7f1d3aa9be9c0f-Paper-Conference.pdf)]
 - Zelin Xu, Jie Ren, Yupu Zhang, Jose Maria Gonzalez Ondina, Maitane Olabarrieta, Tingsong Xiao, Wenchong He, Zibo Liu,
   Shigang Chen, Kaleb Smith, and Zhe Jiang. "A Fast AI Surrogate for Coastal Ocean Circulation Models." arXiv preprint
