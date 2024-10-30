@@ -88,11 +88,11 @@ while 16 and 32 GPU experiments utilize 2 and 4 compute nodes, respectively.
 ## References
 - Zelin Xu, Jie Ren, Yupu Zhang, Jose Maria Gonzalez Ondina, Maitane Olabarrieta, Tingsong Xiao, Wenchong He, Zibo Liu, Shigang Chen, Kaleb Smith, and Zhe Jiang. "A Fast AI Surrogate for Coastal Ocean Circulation Models." arXiv preprint, 2024. [[Paper](https://arxiv.org/abs/2410.14952)]
 - Wenchong He, Zhe Jiang, Tingsong Xiao, Zelin Xu, Shigang Chen, Ronald Fick, Miles Medina, and Christine Angelini. "A Hierarchical Spatial Transformer for Massive Point Samples in Continuous Space." Advances in Neural Information Processing Systems (NeurIPS), 2023. [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/6a0480190bbe6b622c7f1d3aa9be9c0f-Paper-Conference.pdf)]
-- Megan Sam. "Scientists train AI models to predict natural disasters faster" UF CCS News, August 9, 2024. [[Link](https://ccs.eng.ufl.edu/scientists-train-ai-models-to-predict-natural-disasters-faster/)]
+- Megan Sam. "Scientists train AI models to predict natural disasters faster." UF CCS News, August 9, 2024. [[Link](https://ccs.eng.ufl.edu/scientists-train-ai-models-to-predict-natural-disasters-faster/)]
 - Andrew R. Chow. "How Meteorologists Are Using AI to Forecast Hurricane Milton and Other Storms." TIME, October 9, 2024. [[Link](https://time.com/7081372/ai-hurricane-forecasting/)]
 
 ## Acknowledgement
-<img class="float" src="assets/nsf.png" width="10%" style="margin-right:15px;"><img class="float" src="assets/hipergator.png" width="10%" style="margin-right:15px;">
+<img class="float" src="assets/nsf.png" width="10%" style="margin-right:15px;"> <img class="float" src="assets/hipergator.png" width="15%" style="margin-right:15px;">
 
 
 
