@@ -2,6 +2,20 @@
   <img src="assets/milton.svg" alt="time series" width="100%">
 </p>
 
+## Project Team
+
+- **PIs**: [Dr. Zhe Jiang](https://www.jiangteam.org/index.html) (CISE at UF, Lead
+  PI), [Dr. Jie Ren](https://jren73.github.io/) (CS at William & Mary, Site PI)
+- **Senior Personnel**: [Dr. Maitane Olabarrieta](https://www.olabarrieta-coastal.com/) (Civil & Coastal Engineering at
+  UF)
+- **Research Scientists:** Dr. Jose Maria Gonzalez Ondina (UF)
+- **Ph.D. Students**: Zelin Xu (UF), Yupu Zhang (UF)
+
+## Collaborators and Partners
+
+- UFIT Research Computing
+- Nvidia
+
 ## Introduction
 Nearly 900 million people live in low-lying coastal zones around the world and bear the brunt of impacts from more
 frequent and severe hurricanes and storm surges. Oceanographers simulate ocean current circulation along the coasts to
@@ -69,20 +83,6 @@ End-to-end efficiency of integrated workflow with AI surrogate inference results
 Scalability of AI surrogate training with and without activation checkpointing, using 1 to 32 GPUs.
 Experiments use 1, 2, 4, and 8 GPUs on a single compute node,
 while 16 and 32 GPU experiments utilize 2 and 4 compute nodes, respectively.
-
-## Project Team
-
-- **PIs**: [Dr. Zhe Jiang](https://www.jiangteam.org/index.html) (CISE at UF, Lead
-  PI), [Dr. Jie Ren](https://jren73.github.io/) (CS at William & Mary, Site PI)
-- **Senior Personnel**: [Dr. Maitane Olabarrieta](https://www.olabarrieta-coastal.com/) (Civil & Coastal Engineering at
-  UF)
-- **Research Scientists:** Dr. Jose Maria Gonzalez Ondina (UF)
-- **Ph.D. Students**: Zelin Xu (UF), Yupu Zhang (UF)
-
-## Collaborators and Partners
-
-- UFIT Research Computing
-- Nvidia
 
 ## References
 
