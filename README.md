@@ -13,8 +13,9 @@
 
 ## Collaborators and Partners
 
-- UFIT Research Computing
-- Nvidia
+- UF Center for Coastal Solutions
+- NVIDIA AI Technology Center (NVAITC)
+- NOAA's National Ocean Service
 
 ## Introduction
 Nearly 900 million people live in low-lying coastal zones around the world and bear the brunt of impacts from more
@@ -95,7 +96,7 @@ while 16 and 32 GPU experiments utilize 2 and 4 compute nodes, respectively.
   [[Link](https://time.com/7081372/ai-hurricane-forecasting/)]
 
 ## Acknowledgement
-<img class="float" src="assets/nsf.png" width="10%" style="margin-right:15px;"><img class="float" src="assets/nvidia.png" width="10%" style="width:10%;margin-right:15px;"><img class="float" src="assets/noaa.png" width="10%" style="width:10%;margin-right:15px;">
+<img class="float" src="assets/nsf.png" width="10%" style="margin-right:15px;">
 
 
 
